@@ -1,10 +1,10 @@
-#Crawler#
+# Crawler
 
-###Overview###
+### Overview
 
 This project will you grab all the links in a website by just providing the **name of the website** and the **name of the project**.
 
-###Description###
+### Description
 
 The project can be best explained with the help of an example:
 * Open **main.py** file
